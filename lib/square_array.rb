@@ -1,6 +1,6 @@
 def square_array(array)
-  squared_nums = []
-  count = 0 
+ count = 0 
+ squared_nums = []
   
   while count < array.length do 
     squared_nums.push( (array[count]) ** 2 )
