@@ -7,6 +7,6 @@ def square_array(array)
     count += 1 
   end 
   
-  puts squared_nums 
+  p squared_nums 
   
 end
